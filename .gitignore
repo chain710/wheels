@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+#vsproj
+*.suo
+*.user
+*.vcxproj
+*.sdf
+*.sln
+*.filters
